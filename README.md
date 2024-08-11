@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,30&height=300&section=header&text=Janice%20Wong&fontSize=80)
 
 ## Hi! 👋
-- 😄 About me: My name is Janice and I am a computer science student at Occidental College. I am actively pursuing interests and am working on projects in software engineering, mobile app development, machine learning modeling, and quantitative finance."
+- 😄 About me: My name is Janice and I am a computer science student at Occidental College. I am actively working on projects and pursuing interests in software engineering, mobile app development, machine learning modeling, and quantitative finance."
 - ⚡ Fun fact: I love mangoes!
 <a href="mailto:janice.wong2529@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
